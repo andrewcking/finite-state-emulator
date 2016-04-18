@@ -1,4 +1,4 @@
-# finite-state-emulator
+# Finite State Emulator
 Emulates a finite state automata
 
 The fsa is defined in the fsa.txt file in the root, it has 5 lines:
